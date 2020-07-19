@@ -1,1 +1,1 @@
-# I CREATED THIS BY MYSELF and i am about to use inbuilt git in VSCode.
+# I CREATED THIS BY MYSELF and i am about to use inbuilt git in VSCode.We can do commit directly inside the VSCode itself.
